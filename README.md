@@ -1,6 +1,6 @@
-# Next.js + Tailwind CSS Example
+# Next.js + Tailwind Spotify Re-design
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+This a simple re-design of the official Spotify application. You'd need to be a Spotify premium user in order to play the songs. It uses next-auth and the Spotify API to fetch and play your Spotify playlists.
 
 ## Preview
 
