@@ -1,6 +1,6 @@
 # Next.js + Tailwind Spotify Re-design
 
-This a simple re-design of the official Spotify application. You'd need to be a Spotify premium user in order to play the songs. It uses next-auth and the Spotify API to fetch and play your Spotify playlists.
+This is a simple re-design of the official Spotify application. You'd need to be a Spotify premium user in order to play the songs. It uses next-auth and the Spotify API to fetch and play your Spotify playlists.
 
 ## Preview
 
